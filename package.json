@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.2.0",
+  "description": "Awesome module examples",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no testing!\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Terra Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-dev-jokes": "^1.0.3",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  }
+}
